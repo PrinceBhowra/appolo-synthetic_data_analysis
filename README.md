@@ -21,13 +21,15 @@ The dashboard transforms raw healthcare data into interactive visualizations and
 
 The dashboard provides insights into:
 
-* Patient and healthcare trends
-* Revenue and business performance
-* Department-wise analysis
-* Patient demographics
-* Key performance indicators (KPIs)
-* Operational patterns
-* Overall healthcare performance
+* Patient ID and patient-level healthcare records
+* Admission Date, Discharge Date, and Follow-up Date analysis
+* Billing Amount and healthcare revenue analysis
+* Billing Amount vs. Health Insurance Amount comparison
+* Bed Occupancy and hospital utilization trends
+* Doctor Feedback Volume analysis
+* Diagnosis Type distribution and trends
+* Date-wise healthcare and billing analysis
+* Patient journey from admission through follow-up
 
 ## Dashboard
 
