@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project focuses on analyzing Apollo healthcare data using Power BI to identify key business trends, operational patterns, and performance insights.
+This project focuses on analyzing Apollo healthcare data using Power BI to understand patient records, hospital operations, billing, insurance coverage, bed occupancy, doctor feedback, and diagnosis trends.
 
-The dashboard transforms raw healthcare data into interactive visualizations and KPIs that can support data-driven decision-making.
+The dashboard transforms healthcare data into interactive visualizations and KPIs to provide clear insights into patient activity and financial performance.
 
 ## Tools & Technologies
 
@@ -21,19 +21,20 @@ The dashboard transforms raw healthcare data into interactive visualizations and
 
 The dashboard provides insights into:
 
-* Patient ID and patient-level healthcare records
-* Admission Date, Discharge Date, and Follow-up Date analysis
-* Billing Amount and healthcare revenue analysis
-* Billing Amount vs. Health Insurance Amount comparison
-* Bed Occupancy and hospital utilization trends
-* Doctor Feedback Volume analysis
-* Diagnosis Type distribution and trends
-* Date-wise healthcare and billing analysis
-* Patient journey from admission through follow-up
+* Patient ID and patient-level records
+* Admission Date, Discharge Date, and Follow-up Date
+* Patient admission and discharge trends over time
+* Billing Amount analysis
+* Billing Amount vs. Health Insurance Amount
+* Bed Occupancy analysis
+* Doctor Feedback Volume
+* Diagnosis Type distribution
+* Date-wise healthcare activity
+* Patient follow-up patterns
 
 ## Dashboard
 
-The Power BI dashboard contains interactive visuals and KPI cards that allow users to explore healthcare data from different perspectives.
+The Power BI dashboard provides interactive visualizations and KPIs for analyzing patient activity, hospital utilization, doctor feedback, diagnosis types, and billing and insurance amounts.
 
 ## Screenshot
 
@@ -47,15 +48,17 @@ The Power BI dashboard contains interactive visuals and KPI cards that allow use
 
 ## Skills Demonstrated
 
+* Power BI Dashboard Development
+* Power Query
+* DAX
 * Data Cleaning
 * Data Transformation
-* Power BI Dashboard Development
-* DAX
 * KPI Analysis
+* Healthcare Data Analysis
+* Billing and Insurance Analysis
 * Data Visualization
-* Business Analysis
 * Exploratory Data Analysis
 
 ## Project Purpose
 
-The objective of this project is to demonstrate the ability to transform raw healthcare data into meaningful business insights using Power BI and data analytics techniques.
+The objective of this project is to demonstrate the ability to transform healthcare data into meaningful insights using Power BI, with a focus on patient records, hospital operations, feedback, diagnosis trends, and financial analysis.
